@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>front learn</title>
+	<title></title>
 </head>
 <body>
 	front end learn 
-	ok ok
+	ok 
 </body>
 </html>
